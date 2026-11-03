@@ -41,11 +41,19 @@ XAMPP :Local server environment
 
 🚀 Installation Guide
 
-Prerequisites: Install XAMPP with PHP 8.0+ and MySQL.
+Prerequisites: Install XAMPP with PHP 8.0+
+
 Start Apache and MySQL from XAMPP Control Panel.
-Copy the project into C:\xampp\htdocs\hospital_appointment_system.
+
+Copy the project into C:
+\xampp\htdocs\hospital_appointment_system.
+
 Create the uploads folder with prescriptions and doctor_profiles subfolders.
+
 Open http://localhost/phpmyadmin.
+
 Create a database named hospital_appointment_system.
+
 Import database/hospital_appointment_system.sql.
+
 Configure database credentials in config/config.php.
