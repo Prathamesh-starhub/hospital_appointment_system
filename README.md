@@ -40,6 +40,7 @@ Font Awesome 6:Icons
 XAMPP :Local server environment
 
 🚀 Installation Guide
+
 Prerequisites: Install XAMPP with PHP 8.0+ and MySQL.
 Start Apache and MySQL from XAMPP Control Panel.
 Copy the project into C:\xampp\htdocs\hospital_appointment_system.
