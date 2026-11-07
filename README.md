@@ -2,8 +2,6 @@ MediCare – Hospital Appointment Booking System 🏥
 
 A web-based Hospital Appointment Booking System developed using PHP (OOP), MySQL, Bootstrap 5, and JavaScript. It helps patients book appointments, doctors manage schedules, maintain digital medical records, and manage patient queues.
 
-AI Acknowledgment: This project was developed with assistance from Google Gemini for code generation, database design, and UI development.
-
 ✨ Key Features
 
 🧑‍⚕️ Patient Module:
@@ -57,3 +55,5 @@ Create a database named hospital_appointment_system.
 Import database/hospital_appointment_system.sql.
 
 Configure database credentials in config/config.php.
+
+AI Acknowledgment: This project was developed with assistance from Google Gemini for code generation, database design, and UI development.
